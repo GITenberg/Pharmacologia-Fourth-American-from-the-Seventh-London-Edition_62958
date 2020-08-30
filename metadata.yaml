@@ -1,0 +1,39 @@
+_repo: Pharmacologia-Fourth-American-from-the-Seventh-London-Edition_62958
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Beck, John B. (John Brodhead)
+    aliases:
+    - Beck, John Brodhead
+    - Beck, John Broadhead
+    birthdate: 1794
+    deathdate: 1851
+    gutenberg_agent_id: '52202'
+    url: http://www.gutenberg.org/2009/agents/52202
+    wikipedia: https://en.wikipedia.org/wiki/John_Brodhead_Beck
+creator:
+  author:
+    agent_name: Paris, John Ayrton
+    alias: Paris, J. A. (John Ayrton)
+    birthdate: 1785
+    deathdate: 1856
+    gutenberg_agent_id: '43264'
+    url: http://www.gutenberg.org/2009/agents/43264
+    wikipedia: https://en.wikipedia.org/wiki/John_Ayrton_Paris
+description: ''
+gutenberg_issued: '2020-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pharmacognosy'
+- !lcc 'RS'
+- !lcsh 'Pharmacology'
+- !lcsh 'Pharmacy'
+- GITenberg
+title: "Pharmacologia\r\nFourth American, from the Seventh London Edition"
+url: http://www.gutenberg.org/ebooks/62958
